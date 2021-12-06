@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 3em;
+}
+
+.textField {
+    width: 40vw;
+    height: 40vh;
+    font-size: 2em;
+}
+
+.buttons {
+    display: flex;
+}
+
+.button {
+    margin: 10px;
+    background: #ffa07a;
+    border: none;
+    padding: 5px 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+}
+
+
